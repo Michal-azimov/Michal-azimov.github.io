@@ -1,0 +1,14 @@
+# Site settings
+title: Michal Azimov
+description: "PhD student in Molecular Cell Biology at the Weizmann Institute of Science"
+
+# Theme (supported by GitHub Pages out of the box)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
