@@ -73,5 +73,6 @@ title: Michal Azimov
     <p>Want to talk about gut development, collaborate, or just say hello? I'd love to hear from you.</p>
     <a class="btn" href="https://github.com/Michal-azimov">GitHub</a>
     <a class="btn" href="https://www.weizmann.ac.il/">Weizmann Institute</a>
+    <a class="btn" href="mailto:michal.azimov@weizmann.ac.il">Email</a>a>
   </div>
 </section>
