@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Michal Azimov
 ---
 
 <div class="stats">
